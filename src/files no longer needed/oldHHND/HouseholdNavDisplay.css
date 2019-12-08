@@ -1,0 +1,7 @@
+.HouseholdNavDisplay {
+    display: grid;
+    grid-column-start: [first];
+    grid-column-end: [line3];
+    grid-row-start: [row1-start];
+    grid-row-end: [last-line];
+}

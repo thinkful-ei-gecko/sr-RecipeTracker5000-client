@@ -1,0 +1,79 @@
+.HouseholdList {
+display: flex;
+flex-direction: column;
+
+
+}
+section.household-container {
+    display: flex;
+    align-items: center;
+    align-self: center;
+}
+/* , h2.HouseholdNav-householdtitle */
+div.HouseholdNav {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-content: center;
+    margin: 0% 0% 0% 0%;
+    border-radius: black 1px;
+    border: black 1px;
+}
+
+.HouseholdNav-householdtitle, h2 {
+    font-weight: bolder;
+    color: white;
+    font-size: 20px;
+    
+    text-shadow: 3px 4px 6px black;
+}
+section.add-household-button, .a, .h2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-content: center;
+}
+
+.li {
+    color: white;
+}
+
+li.household-titles {
+    flex-direction: column;
+    text-decoration: none;
+    padding-left: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bolder;
+}
+
+ul.household_title {
+list-style: none; 
+border: 2px solid black;
+width: 400px;
+padding: 5px 5px 5px 5px;
+align-content: center;
+background: rgba(255, 255, 255, 0.815);
+
+   
+}
+
+a:link,
+a:visited, li.household-titles, li {
+color: black;
+text-decoration-line: none;
+text-decoration: none;
+font-size: 20px ;
+}
+
+
+li {
+border-radius: 1px;
+border: black;
+
+}

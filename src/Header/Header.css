@@ -1,0 +1,10 @@
+
+div.Header-App-Title {
+   display: flex;
+   align-content: center;
+   text-align: center;
+   justify-content: center;
+   text-shadow: 5px 4px 12px black;
+   color: white;
+   font-weight: bolder;
+}
